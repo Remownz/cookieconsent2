@@ -1,8 +1,10 @@
-$screen-xs-min: 500px;
-$screen-sm-min: 768px;
-$screen-md-min: 992px;
-$screen-lg-min: 1200px;
+$screen-xs-min: 500px !default;
+$screen-sm-min: 768px !default;
+$screen-md-min: 992px !default;
+$screen-lg-min: 1200px !default;
 
-$screen-sm-max: 767px;
-$screen-md-max: 991px;
-$screen-lg-max: 1199px;
+$screen-sm-max: 767px !default;
+$screen-md-max: 991px !default;
+$screen-lg-max: 1199px !default;
+
+$plugin-height: 66px !default;
